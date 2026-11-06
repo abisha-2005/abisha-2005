@@ -25,7 +25,6 @@ I focus on **backend development with Java and Spring Boot**, and I've worked on
 
 | | |
 |---|---|
-| 🔭 **Building** | 3D ULPIN Property Cadastral System (GeoNexus) for Smart India Hackathon 2026 |
 | 🌱 **Learning** | Spring Boot, System Design, DSA |
 | 🏢 **Internships** | Generative AI @ BigLearn · UI/UX @ Novi Tech |
 | 💬 **Ask me about** | Java, Spring Boot, REST APIs, ML-based churn prediction |
