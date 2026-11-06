@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Abi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=60&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Abi&fontSize=52&fontColor=ffffff" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -81,11 +81,6 @@ Java Maven based quiz application.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abisha-2005&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abisha-2005&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abisha-2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -94,7 +89,7 @@ Java Maven based quiz application.
 ## ⚡ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abisha-2005&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/6366f1/abisha-2005" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
