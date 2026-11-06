@@ -20,13 +20,13 @@
 
 ## 👩‍💻 About Me
 
-Hey! I'm **Abi**, a final-year **B.Tech Information Technology** student at **Saranathan College of Engineering, Tiruchirappalli** (graduating 2027, CGPA 8.56).
-I focus on **backend development with Java and Spring Boot**, and I've worked on both **UI/UX** and **Generative AI** projects during internships.
+Hey! I'm **Abi**, a final-year **B.Tech Information Technology** student at **Saranathan College of Engineering, Tiruchirappalli** .
+I focus on **backend development with Java and Spring Boot**, and I've worked on **Generative AI** projects during internship.
 
 | | |
 |---|---|
 | 🌱 **Learning** | Spring Boot, System Design, DSA |
-| 🏢 **Internships** | Generative AI @ BigLearn · UI/UX @ Novi Tech |
+| 🏢 **Internships** | Generative AI @ BigLearn  |
 | 💬 **Ask me about** | Java, Spring Boot, REST APIs, ML-based churn prediction |
 
 ---
@@ -62,10 +62,6 @@ Java Maven based quiz application.
 
 🔗 [View Repository](https://github.com/abisha-2005/quiz)
 
----
-
-### 🗺️ GeoNexus – 3D ULPIN Property Cadastral System `🚧 In Progress`
-3D property cadastral system being built for Smart India Hackathon 2026.
 
 ---
 
