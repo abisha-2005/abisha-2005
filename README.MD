@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-Hey! I'm **Abi**, a final-year **B.Tech Information Technology** student at **Saranathan College of Engineering, Tiruchirappalli** .
+Hey! I'm **Abisha**, a final-year **B.Tech Information Technology** student at **Saranathan College of Engineering, Tiruchirappalli** .
 I focus on **backend development with Java and Spring Boot**, and I've worked on **Generative AI** projects during internship.
 
 | | |
